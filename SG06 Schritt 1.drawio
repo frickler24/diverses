@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Seite-1" id="QDCYLL3IUiLGqoGLv6hI">
+    <mxGraphModel dx="742" dy="386" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="x57b-7zl5MzbYSWRpnM9-1" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;VSNR ....&lt;/div&gt;FixedBlock Export aus DSS" vertex="1">
+          <mxGeometry height="100" width="150" x="110" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="x57b-7zl5MzbYSWRpnM9-3" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Cobol CPB&lt;/div&gt;&lt;div&gt;für Satzarten&amp;nbsp;&lt;/div&gt;&lt;div&gt;10, 15, 20, 30, 40, 50&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="150" x="110" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="x57b-7zl5MzbYSWRpnM9-5" parent="1" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="280" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="x57b-7zl5MzbYSWRpnM9-6" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Auftrag1&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="150" x="250" y="484" as="geometry" />
+        </mxCell>
+        <mxCell id="x57b-7zl5MzbYSWRpnM9-7" parent="1" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Grafische Darstellung &lt;br&gt;(was habe ich gefunden?)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="150" x="380" y="290" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
